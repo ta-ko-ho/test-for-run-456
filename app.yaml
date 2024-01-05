@@ -1,0 +1,3 @@
+kind: wasmer.io/App.v0
+name: watch-foreign-year
+package: ta-ko-ho/watch-foreign-year
